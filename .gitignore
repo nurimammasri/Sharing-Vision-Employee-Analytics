@@ -44,3 +44,7 @@ build/
 # Logs
 *.log
 logs/
+
+# Temp files
+tmp_*.txt
+*.tmp
